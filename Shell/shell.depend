@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1511000208 source:/home/shahenda/Desktop/codeblocks projects/shell/main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<sys/wait.h>
+	<unistd.h>
+
